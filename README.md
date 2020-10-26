@@ -1,5 +1,5 @@
 # rehype-all-the-thumbs-obviate
-Supporting `rehype-all-the-thumbs` by preventing needless work
+Supporting [`rehype-all-the-thumbs`](https://github.com/ericdmoore/rehype-all-the-thumbs) by preventing needless work
 
 ## Overview
 
